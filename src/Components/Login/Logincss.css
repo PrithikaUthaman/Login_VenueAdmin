@@ -1,0 +1,22 @@
+.textStyle{
+    background-color: #030303;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    width: 600px;
+    min-width: fit-content;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: Poppins;
+    font-size: 16px;
+    padding: 10px;
+
+
+}
+::placeholder{
+    color: #FFFFFF;
+    font-size: 16px;
+
+}
